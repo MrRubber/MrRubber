@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+这个号不用了，换到 github/aeilot 去了。
+
 <!--
 **MrRubber/MrRubber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
