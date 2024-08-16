@@ -2,6 +2,8 @@
 
 这个号不用了，换到 github/aeilot 去了。
 
+The account is no longer in use. I have migrated to github/aeilot.
+
 <!--
 **MrRubber/MrRubber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
